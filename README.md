@@ -1,12 +1,34 @@
-# React + Vite
+# 📝 Taskora - Todo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Logo
+<img width="2048" height="2048" alt="taskora" src="https://github.com/user-attachments/assets/80c81e01-532f-4505-a98d-b073238a698c" />
 
-Currently, two official plugins are available:
+## Interface
+<img width="1891" height="896" alt="image" src="https://github.com/user-attachments/assets/7d9eb47d-a573-46a3-aab4-ab7810f3697a" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A simple and stylish Todo List app built with **React** and custom **CSS**.  
+Easily add tasks, mark them as done, delete them, or mark all tasks as complete.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tech Stack
+- **React** (Frontend framework)
+- **JavaScript (ES6+)**
+- **CSS** (Custom styling, responsive layout)
+
+---
+
+## 📦 Installation & Running Locally
+
+```bash
+# 1️⃣ Clone the repository
+git clone https://github.com/Anaghbrati/taskora-todolist
+
+# 2️⃣ Navigate into the project folder
+cd taskora-todolist
+
+# 3️⃣ Install dependencies
+npm install
+
+# 4️⃣ Start the development server
+npm start
