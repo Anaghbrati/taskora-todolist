@@ -31,4 +31,4 @@ cd taskora-todolist
 npm install
 
 # 4️⃣ Start the development server
-npm start
+npm run dev
